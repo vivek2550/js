@@ -9,5 +9,5 @@ console.log(arr)
 console.log(arr.toString())
 
 let arr1 = ["Microsoft", "IBM", "Infosys","Tcs"]
-
+console.log(arr1.join(","))
 arr1.push("Amazon");
